@@ -1,4 +1,6 @@
-# Statystyka-Projekt
+# Statystyka-projekt-AGH
+
+#### Repozytorium zawiera projekt przygotowany w ramach kursu Rachunek prawdopodobieństwa i statystyka, realizowanego na kierunku Informatyka na Akademii Górniczo-Hutniczej w Krakowie.
 
 ## MultinomialNaiveBayesClassifier
 
